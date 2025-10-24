@@ -1,0 +1,5 @@
+{
+  "name": "Atlas AI Playground",
+  "description": "A comprehensive prototype for the Atlas AI Playground, a platform for testing and governing Retrieval-Augmented Generation (RAG) systems. This application simulates a 5-phase workflow, from knowledge base configuration and prompt engineering to massive evaluation, governance approval, and an interactive chat playground with diagnostic tools.",
+  "requestFramePermissions": []
+}
